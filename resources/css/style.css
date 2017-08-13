@@ -34,6 +34,7 @@ li a {
   color: white;
   padding: 0;
   margin 0;
+  bacground-size: cover;
 }
 
 h2 {
@@ -52,4 +53,5 @@ h3 {
   color: white;
   padding: 0;
   margin 0;
+  background-size: cover;
 }
