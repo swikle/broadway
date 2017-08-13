@@ -31,10 +31,10 @@ li a {
 .header {
   background-image: url("../images/the-flatiron-building.png");
   background-color: black;
+  background-size: cover;
   color: white;
   padding: 0;
   margin 0;
-  bacground-size: cover;
 }
 
 h2 {
@@ -47,11 +47,11 @@ h3 {
 
 .newyork {
   background-image: url("../images/the-flatiron-building.png");
+  background-color: dimgray;
+  background-size: cover;
   font-size: 23px;
   font-weight: bold;
-  background-color: dimgray;
   color: white;
   padding: 0;
   margin 0;
-  background-size: cover;
 }
