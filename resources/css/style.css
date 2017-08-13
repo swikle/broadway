@@ -22,7 +22,6 @@ li {
 }
 
 li a {
-    text-decoration: underline;
     color: white;
     font-size: 18px;
     font-weight: bold;
@@ -54,4 +53,24 @@ h3 {
   color: white;
   padding: 0;
   margin 0;
+}
+
+footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+footer p {
+  font-size: 11px;
+  color: white;
+}
+
+footer li {
+  font-size: 11px;
+  color: white;
+  display: inline;
+}
+
+footer li a {
+  font-size: 11px;
 }
